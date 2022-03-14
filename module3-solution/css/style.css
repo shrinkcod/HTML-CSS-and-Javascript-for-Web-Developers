@@ -1,0 +1,43 @@
+.navbar-brand {
+	background-color:#000 ;
+}
+.navbar-header{
+	background-color:#000 ;
+}
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: #d6d6d6;
+}
+
+
+section {
+    border: 1px solid black;
+    background-color: #b5c4d2;
+    margin: 10px;
+}
+
+section.chiken>h2 {
+   text-align: center;
+}
+
+section.beef>h2 {
+    text-align: center;
+}
+
+section.sushi>h2 {
+    text-align: center;
+}
+section>p {
+     padding: 40px 15px 15px 15px;
+}
+
+li {
+    text-align: center;
+    font-size: x-large;
+    background-color: white;
+}
+a {
+    background-color: #263238;
+}
